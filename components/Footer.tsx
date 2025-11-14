@@ -9,9 +9,14 @@ const Footer: React.FC = () => {
           <LeafIcon className="h-6 w-6 text-emerald-500" />
           <span className="font-bold text-xl text-white">Recicla Capixaba</span>
         </div>
-        <p className="text-sm">
-          &copy; {new Date().getFullYear()} Recicla Capixaba. Todos os direitos reservados.
-        </p>
+        <div className="text-sm md:text-right">
+          <p>
+            &copy; {new Date().getFullYear()} Recicla Capixaba. Todos os direitos reservados.
+          </p>
+          <p className="mt-1">
+            CNPJ: 35.457.861/0001-88
+          </p>
+        </div>
       </div>
     </footer>
   );

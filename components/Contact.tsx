@@ -14,21 +14,21 @@ const Contact: React.FC = () => {
             <PhoneIcon className="h-8 w-8 text-emerald-200" />
             <div>
               <h3 className="font-semibold text-lg">Telefone</h3>
-              <a href="tel:+5527992524498" className="hover:text-emerald-100 transition-colors">+55 (27) 99252-4498</a>
+              <a href="tel:+552730773775" className="hover:text-emerald-100 transition-colors">+55 (27) 3077-3775</a>
             </div>
           </div>
           <div className="flex items-center gap-4">
             <MailIcon className="h-8 w-8 text-emerald-200" />
             <div>
               <h3 className="font-semibold text-lg">Email</h3>
-              <a href="mailto:contato@reciclacapixaba.com.br" className="hover:text-emerald-100 transition-colors">contato@reciclacapixaba.com.br</a>
+              <a href="mailto:reciclacapixaba2021@gmail.com" className="hover:text-emerald-100 transition-colors">reciclacapixaba2021@gmail.com</a>
             </div>
           </div>
           <div className="flex items-center gap-4">
             <LocationMarkerIcon className="h-8 w-8 text-emerald-200" />
             <div>
               <h3 className="font-semibold text-lg">Endereço</h3>
-              <p>Avenida da Reciclagem, 456, Vitória - ES</p>
+              <p>Rua Antonio Aleixo, 601, Vitória - ES</p>
             </div>
           </div>
         </div>
