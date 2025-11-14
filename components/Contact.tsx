@@ -14,7 +14,7 @@ const Contact: React.FC = () => {
             <PhoneIcon className="h-8 w-8 text-emerald-200" />
             <div>
               <h3 className="font-semibold text-lg">Telefone</h3>
-              <a href="tel:+5527999998888" className="hover:text-emerald-100 transition-colors">+55 (27) 99999-8888</a>
+              <a href="tel:+5527992524498" className="hover:text-emerald-100 transition-colors">+55 (27) 99252-4498</a>
             </div>
           </div>
           <div className="flex items-center gap-4">
