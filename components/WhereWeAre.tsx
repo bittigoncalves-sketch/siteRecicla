@@ -3,6 +3,7 @@ import { LocationMarkerIcon } from './IconComponents';
 
 const WhereWeAre: React.FC = () => {
   const locations = [
+    'Vitória, Brasil',
     'São Paulo, Brasil',
     'Rio de Janeiro, Brasil',
     'Lisboa, Portugal',

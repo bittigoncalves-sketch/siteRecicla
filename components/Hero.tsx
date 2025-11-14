@@ -16,12 +16,6 @@ const Hero: React.FC = () => {
         <p className="text-lg md:text-xl max-w-2xl mx-auto mb-8 drop-shadow-md">
           A Recicla é sua parceira na construção de um futuro sustentável, transformando resíduos em recursos valiosos.
         </p>
-        <a 
-          href="#o-que-reciclamos" 
-          className="bg-emerald-600 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-emerald-700 transition-all duration-300 transform hover:scale-105 shadow-xl"
-        >
-          Descubra Como
-        </a>
       </div>
     </section>
   );
